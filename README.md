@@ -1,5 +1,7 @@
 # weather-forecast
 An app with which you can check the weather in your city ☁️
+<br/>
+Created with OpenWeather API
 ```
 npm i
 npm run dev
